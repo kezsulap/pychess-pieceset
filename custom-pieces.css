@@ -47,6 +47,12 @@
 .hoppel .cg-wrap piece.n-piece.black {
 	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/black-archer.svg') !important;
 }
+.hoppel .cg-wrap piece.b-piece.white {
+	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.5.2/static/images/pieces/hoppel/animal/wB.svg') !important;
+}
+.hoppel .cg-wrap piece.b-piece.black {
+	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.5.2/static/images/pieces/hoppel/animal/bB.svg') !important;
+}
 /*orda*/
 .orda .cg-wrap piece.k-piece.black {
 	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/gold-king.svg') !important;
