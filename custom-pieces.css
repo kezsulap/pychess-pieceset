@@ -69,3 +69,27 @@
 	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/red-captain.svg') !important;
 }
 
+/*makruk*/
+.makruk8x8 .cg-wrap {
+	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.5.2/static/images/board/8x8brown.svg') !important;
+
+}
+.makruk .cg-wrap piece.s-piece.white {
+	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/white-yurt.svg') !important;
+}
+.makruk .cg-wrap piece.s-piece.black {
+	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/black-yurt.svg') !important;
+}
+.makruk .cg-wrap piece.m-piece.white {
+	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.5.2/static/images/pieces/shinobi/wM.svg') !important;
+}
+.makruk .cg-wrap piece.m-piece.promoted.white {
+	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.5.2/static/images/pieces/shinobi/wM.svg') !important;
+}
+.makruk .cg-wrap piece.m-piece.black {
+	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/black-monk.svg') !important;
+}
+.makruk .cg-wrap piece.m-piece.promoted.black {
+	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/black-monk.svg') !important;
+}
+
