@@ -92,4 +92,16 @@
 .makruk .cg-wrap piece.m-piece.promoted.black {
 	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/black-monk.svg') !important;
 }
-
+/*sittuyin*/
+.sittuyin .cg-wrap piece.f-piece.white {
+	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.5.2/static/images/pieces/shinobi/wM.svg') !important;
+}
+.sittuyin .cg-wrap piece.s-piece.white {
+	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/white-yurt.svg') !important;
+}
+.sittuyin .cg-wrap piece.f-piece.black {
+	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/black-monk.svg') !important;
+}
+.sittuyin .cg-wrap piece.s-piece.black {
+	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/black-yurt.svg') !important;
+}
