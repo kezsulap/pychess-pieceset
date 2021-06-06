@@ -14,6 +14,9 @@
 .shinobi .cg-wrap piece.d-piece.white {
 	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/white-dragon.svg') !important;
 }
+.shinobi .cg-wrap piece.h-piece.white {
+	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/white-horsey.svg') !important;
+}
 /*shogun*/
 .shogun .cg-wrap piece.f-piece.black {
 	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/black-monk.svg') !important;
