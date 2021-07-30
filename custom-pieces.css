@@ -108,3 +108,20 @@
 .sittuyin .cg-wrap piece.s-piece.black {
 	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/black-yurt.svg') !important;
 }
+/*orda mirror*/
+.ordamirror .cg-wrap piece.k-piece.white {
+	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.6.15/static/images/pieces/merida/wK.svg') !important;
+}
+.ordamirror .cg-wrap piece.k-piece.black {
+	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/gold-king.svg') !important;
+}
+.ordamirror .cg-wrap piece.f-piece.white {
+	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/white-eagle.svg') !important;
+}
+.ordamirror .cg-wrap piece.f-piece.black {
+	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.6.15/static/images/pieces/empire/wE.svg') !important;
+}
+/*empire*/
+.empire .cg-wrap piece.k-piece.white {
+	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/gold-king.svg') !important;
+}
