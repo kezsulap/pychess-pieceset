@@ -125,3 +125,174 @@
 .empire .cg-wrap piece.k-piece.white {
 	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/gold-king.svg') !important;
 }
+/*shogi*/
+.shogi .orientation-white.cg-wrap piece.p-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/1FU-bright.svg') !important;
+}
+.shogi .orientation-white.cg-wrap piece.pp-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/1TO-bright.svg') !important;
+}
+.shogi .orientation-white.cg-wrap piece.b-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/1KA-bright.svg') !important;
+}
+.shogi .orientation-white.cg-wrap piece.pb-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/1UM-bright.svg') !important;
+}
+.shogi .orientation-white.cg-wrap piece.n-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/1KE-bright.svg') !important;
+}
+.shogi .orientation-white.cg-wrap piece.pn-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/1NK-bright.svg') !important;
+}
+.shogi .orientation-white.cg-wrap piece.r-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/1HI-bright.svg') !important;
+}
+.shogi .orientation-white.cg-wrap piece.pr-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/1RY-bright.svg') !important;
+}
+.shogi .orientation-white.cg-wrap piece.l-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/1KY-bright.svg') !important;
+}
+.shogi .orientation-white.cg-wrap piece.pl-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/1NY-bright.svg') !important;
+}
+.shogi .orientation-white.cg-wrap piece.s-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/1GI-bright.svg') !important;
+}
+.shogi .orientation-white.cg-wrap piece.ps-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/1NG-bright.svg') !important;
+}
+.shogi .orientation-white.cg-wrap piece.g-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/1KI-bright.svg') !important;
+}
+.shogi .orientation-white.cg-wrap piece.k-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/1GY-bright.svg') !important;
+}
+.shogi .orientation-white.cg-wrap piece.p-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/0FU-dark.svg') !important;
+}
+.shogi .orientation-white.cg-wrap piece.pp-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/0TO-dark.svg') !important;
+}
+.shogi .orientation-white.cg-wrap piece.b-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/0KA-dark.svg') !important;
+}
+.shogi .orientation-white.cg-wrap piece.pb-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/0UM-dark.svg') !important;
+}
+.shogi .orientation-white.cg-wrap piece.n-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/0KE-dark.svg') !important;
+}
+.shogi .orientation-white.cg-wrap piece.pn-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/0NK-dark.svg') !important;
+}
+.shogi .orientation-white.cg-wrap piece.r-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/0HI-dark.svg') !important;
+}
+.shogi .orientation-white.cg-wrap piece.pr-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/0RY-dark.svg') !important;
+}
+.shogi .orientation-white.cg-wrap piece.l-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/0KY-dark.svg') !important;
+}
+.shogi .orientation-white.cg-wrap piece.pl-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/0NY-dark.svg') !important;
+}
+.shogi .orientation-white.cg-wrap piece.s-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/0GI-dark.svg') !important;
+}
+.shogi .orientation-white.cg-wrap piece.ps-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/0NG-dark.svg') !important;
+}
+.shogi .orientation-white.cg-wrap piece.g-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/0KI-dark.svg') !important;
+}
+.shogi .orientation-white.cg-wrap piece.k-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/0OU-dark.svg') !important;
+}
+
+
+.shogi .orientation-black.cg-wrap piece.p-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/1FU-dark.svg') !important;
+}
+.shogi .orientation-black.cg-wrap piece.pp-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/1TO-dark.svg') !important;
+}
+.shogi .orientation-black.cg-wrap piece.b-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/1KA-dark.svg') !important;
+}
+.shogi .orientation-black.cg-wrap piece.pb-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/1UM-dark.svg') !important;
+}
+.shogi .orientation-black.cg-wrap piece.n-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/1KE-dark.svg') !important;
+}
+.shogi .orientation-black.cg-wrap piece.pn-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/1NK-dark.svg') !important;
+}
+.shogi .orientation-black.cg-wrap piece.r-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/1HI-dark.svg') !important;
+}
+.shogi .orientation-black.cg-wrap piece.pr-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/1RY-dark.svg') !important;
+}
+.shogi .orientation-black.cg-wrap piece.l-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/1KY-dark.svg') !important;
+}
+.shogi .orientation-black.cg-wrap piece.pl-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/1NY-dark.svg') !important;
+}
+.shogi .orientation-black.cg-wrap piece.s-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/1GI-dark.svg') !important;
+}
+.shogi .orientation-black.cg-wrap piece.ps-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/1NG-dark.svg') !important;
+}
+.shogi .orientation-black.cg-wrap piece.g-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/1KI-dark.svg') !important;
+}
+.shogi .orientation-black.cg-wrap piece.k-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/1GY-dark.svg') !important;
+}
+.shogi .orientation-black.cg-wrap piece.p-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/0FU-bright.svg') !important;
+}
+.shogi .orientation-black.cg-wrap piece.pp-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/0TO-bright.svg') !important;
+}
+.shogi .orientation-black.cg-wrap piece.b-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/0KA-bright.svg') !important;
+}
+.shogi .orientation-black.cg-wrap piece.pb-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/0UM-bright.svg') !important;
+}
+.shogi .orientation-black.cg-wrap piece.n-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/0KE-bright.svg') !important;
+}
+.shogi .orientation-black.cg-wrap piece.pn-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/0NK-bright.svg') !important;
+}
+.shogi .orientation-black.cg-wrap piece.r-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/0HI-bright.svg') !important;
+}
+.shogi .orientation-black.cg-wrap piece.pr-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/0RY-bright.svg') !important;
+}
+.shogi .orientation-black.cg-wrap piece.l-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/0KY-bright.svg') !important;
+}
+.shogi .orientation-black.cg-wrap piece.pl-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/0NY-bright.svg') !important;
+}
+.shogi .orientation-black.cg-wrap piece.s-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/0GI-bright.svg') !important;
+}
+.shogi .orientation-black.cg-wrap piece.ps-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/0NG-bright.svg') !important;
+}
+.shogi .orientation-black.cg-wrap piece.g-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/0KI-bright.svg') !important;
+}
+.shogi .orientation-black.cg-wrap piece.k-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/shogi/0OU-bright.svg') !important;
+}
