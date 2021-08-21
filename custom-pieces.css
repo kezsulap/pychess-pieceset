@@ -322,7 +322,7 @@
 .kyoto .cg-wrap.orientation-white piece.ps-piece.white {
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/kyoto/0KA.svg') !important;
 }
-.kyoto .cg-wrap.orientation-white piece.k-piece.black {
+.kyoto .cg-wrap.orientation-white piece.k-piece.white {
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/kyoto/0GY.svg') !important;
 }
 .kyoto .cg-wrap.orientation-white piece.p-piece.black {
@@ -377,7 +377,7 @@
 .kyoto .cg-wrap.orientation-black piece.ps-piece.black {
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/kyoto/0KA.svg') !important;
 }
-.kyoto .cg-wrap.orientation-black piece.k-piece.white {
+.kyoto .cg-wrap.orientation-black piece.k-piece.black {
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/kyoto/0GY.svg') !important;
 }
 .kyoto .cg-wrap.orientation-black piece.p-piece.white {
