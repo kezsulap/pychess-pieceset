@@ -407,4 +407,51 @@
 .kyoto .cg-wrap.orientation-black piece.k-piece.white {
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/kyoto/1GY-dark.svg') !important;
 }
-
+.kyoto .pocket.top .p-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/kyoto/1FU-dark.svg') !important;
+}
+.kyoto .pocket.top .l-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/kyoto/1KY-dark.svg') !important;
+}
+.kyoto .pocket.top .n-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/kyoto/1KE-dark.svg') !important;
+}
+.kyoto .pocket.top .s-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/kyoto/1GI-dark.svg') !important;
+}
+.kyoto .pocket.bottom .p-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/kyoto/0FU-dark.svg') !important;
+}
+.kyoto .pocket.bottom .l-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/kyoto/0KY-dark.svg') !important;
+}
+.kyoto .pocket.bottom .n-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/kyoto/0KE-dark.svg') !important;
+}
+.kyoto .pocket.bottom .s-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/kyoto/0GI-dark.svg') !important;
+}
+.kyoto .pocket.top .p-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/kyoto/1FU-bright.svg') !important;
+}
+.kyoto .pocket.top .l-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/kyoto/1KY-bright.svg') !important;
+}
+.kyoto .pocket.top .n-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/kyoto/1KE-bright.svg') !important;
+}
+.kyoto .pocket.top .s-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/kyoto/1GI-bright.svg') !important;
+}
+.kyoto .pocket.bottom .p-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/kyoto/0FU-bright.svg') !important;
+}
+.kyoto .pocket.bottom .l-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/kyoto/0KY-bright.svg') !important;
+}
+.kyoto .pocket.bottom .n-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/kyoto/0KE-bright.svg') !important;
+}
+.kyoto .pocket.bottom .s-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/kyoto/0GI-bright.svg') !important;
+}
