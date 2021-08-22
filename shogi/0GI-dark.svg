@@ -58,8 +58,8 @@
    guidetolerance="10"
    id="namedview4907"
    inkscape:current-layer="svg4905"
-   inkscape:cx="19.563933"
-   inkscape:cy="33.414667"
+   inkscape:cx="-90.297946"
+   inkscape:cy="-42.215281"
    inkscape:document-rotation="0"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
@@ -68,7 +68,7 @@
    inkscape:window-width="1848"
    inkscape:window-x="72"
    inkscape:window-y="27"
-   inkscape:zoom="13.183917"
+   inkscape:zoom="2.3306093"
    objecttolerance="10"
    pagecolor="#ffffff"
    showgrid="false">
@@ -84,7 +84,7 @@
    id="path904"
    d="M 6.2,7.4 H 46 c 1.5,0 2.8,1.2 2.8,2.8 V 50 c 0,1.5 -1.2,2.8 -2.8,2.8 H 6.2 C 4.7,52.8 3.4,51.6 3.4,50 V 10.1 C 3.4,8.6 4.7,7.4 6.2,7.4 Z"
    class="st1" /><path
-   style="fill:#e95c35"
+   style="fill:#ec7756;fill-opacity:1"
    inkscape:connector-curvature="0"
    id="path906"
    d="m 7.1,9.8 c 0.9,0 1.7,0.7 1.7,1.7 0,0.9 -0.7,1.7 -1.7,1.7 -0.9,0 -1.7,-0.7 -1.7,-1.7 0,-1 0.8,-1.7 1.7,-1.7 z"
@@ -94,7 +94,7 @@
    id="path908"
    d="m 7.1,9.8 c 0.9,0 1.7,0.7 1.7,1.7 0,0.9 -0.7,1.7 -1.7,1.7 -0.9,0 -1.7,-0.7 -1.7,-1.7 0,-1 0.8,-1.7 1.7,-1.7 z"
    class="st3" /><path
-   style="fill:#e95c35"
+   style="fill:#ec7756;fill-opacity:1"
    inkscape:connector-curvature="0"
    id="path910"
    d="m 25.8,9.7 c 0.9,0 1.7,0.7 1.7,1.7 0,0.9 -0.7,1.7 -1.7,1.7 -0.9,0 -1.7,-0.7 -1.7,-1.7 0,-1 0.8,-1.7 1.7,-1.7 z"
@@ -104,7 +104,7 @@
    id="path912"
    d="m 25.8,9.7 c 0.9,0 1.7,0.7 1.7,1.7 0,0.9 -0.7,1.7 -1.7,1.7 -0.9,0 -1.7,-0.7 -1.7,-1.7 0,-1 0.8,-1.7 1.7,-1.7 z"
    class="st3" /><path
-   style="fill:#e95c35"
+   style="fill:#ec7756;fill-opacity:1"
    inkscape:connector-curvature="0"
    id="path914"
    d="m 44.1,9.7 c 0.9,0 1.7,0.7 1.7,1.7 0,1 -0.7,1.6 -1.7,1.6 -1,0 -1.7,-0.7 -1.7,-1.7 0,-1 0.8,-1.6 1.7,-1.6 z"
@@ -114,7 +114,7 @@
    id="path916"
    d="m 44.1,9.7 c 0.9,0 1.7,0.7 1.7,1.7 0,1 -0.7,1.6 -1.7,1.6 -1,0 -1.7,-0.7 -1.7,-1.7 0,-1 0.8,-1.6 1.7,-1.6 z"
    class="st3" /><path
-   style="fill:#e95c35"
+   style="fill:#ec7756;fill-opacity:1"
    inkscape:connector-curvature="0"
    id="path918"
    d="m 7.1,47.1 c 0.9,0 1.7,0.7 1.7,1.7 0,1 -0.8,1.6 -1.7,1.6 -0.9,0 -1.7,-0.7 -1.7,-1.7 0,-1 0.8,-1.6 1.7,-1.6 z"
@@ -124,7 +124,7 @@
    id="path920"
    d="m 7.1,47.1 c 0.9,0 1.7,0.7 1.7,1.7 0,1 -0.8,1.6 -1.7,1.6 -0.9,0 -1.7,-0.7 -1.7,-1.7 0,-1 0.8,-1.6 1.7,-1.6 z"
    class="st3" /><circle
-   style="fill:#e95c35"
+   style="fill:#ec7756;fill-opacity:1"
    id="circle922"
    r="1.7"
    cy="48.700001"
