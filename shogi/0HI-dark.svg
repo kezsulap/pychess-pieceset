@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,7 +41,7 @@
      id="namedview4907"
      showgrid="false"
      inkscape:zoom="12.397939"
-     inkscape:cx="21.490126"
+     inkscape:cx="7.0522424"
      inkscape:cy="31.595218"
      inkscape:window-x="72"
      inkscape:window-y="27"
@@ -72,7 +72,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_osh
        id="feBlend4884" />
   </filter>
   <rect
-     style="display:inline;opacity:1;fill:#646610;fill-opacity:1;stroke:#000000;stroke-width:0.7220484;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+     style="display:inline;opacity:1;fill:#664c10;fill-opacity:1;stroke:#000000;stroke-width:0.7220484;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
      id="rect5497"
      width="45.27795"
      height="45.27795"

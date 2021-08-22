@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -34,7 +34,7 @@
      inkscape:window-y="27"
      inkscape:window-x="72"
      inkscape:cy="31.702832"
-     inkscape:cx="44.229581"
+     inkscape:cx="30.652432"
      inkscape:zoom="13.183917"
      showgrid="false"
      id="namedview4907"
@@ -79,7 +79,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_osh
      height="45.27795"
      width="45.27795"
      id="rect5497-3"
-     style="opacity:1;fill:#646610;fill-opacity:1;stroke:#000000;stroke-width:0.72204834;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+     style="opacity:1;fill:#664c10;fill-opacity:1;stroke:#000000;stroke-width:0.72204834;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
   <path
      transform="matrix(0.94962391,-0.89012124,0.89012124,0.94962391,-168.72165,-268.89617)"
      inkscape:transform-center-y="0.22740032"
