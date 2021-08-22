@@ -11,7 +11,7 @@
    inkscape:export-xdpi="365.15302"
    inkscape:export-filename="D:\Pictures\Chess Variants\Shogi\pieces\Plastic\0GY.png"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="0GY.svg"
+   sodipodi:docname="0GY-bright.svg"
    id="svg1717"
    version="1.1"
    height="60"
@@ -56,7 +56,7 @@
      inkscape:window-y="27"
      inkscape:window-x="72"
      inkscape:cy="30"
-     inkscape:cx="26.078501"
+     inkscape:cx="-15.630237"
      inkscape:zoom="8.5833333"
      showgrid="false"
      id="namedview1719"
@@ -111,14 +111,14 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     </g>
     <g
        id="text2298-4"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.07196045px;line-height:1.25;font-family:PMingLiU;-inkscape-font-specification:PMingLiU;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0e0e0e;fill-opacity:1;stroke:#000000;stroke-width:0.42316899;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.07196045px;line-height:1.25;font-family:PMingLiU;-inkscape-font-specification:PMingLiU;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0b0b0b;fill-opacity:1;stroke:#000000;stroke-width:0.42316899;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(1.1324336,0,0,1.0188038,-3.1346247,-0.2835273)"
        aria-label="王">
       <path
          sodipodi:nodetypes="ccccccccccccccccccccc"
          inkscape:connector-curvature="0"
          id="path4617"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MingLiU_HKSCS-ExtB;-inkscape-font-specification:MingLiU_HKSCS-ExtB;fill:#0e0e0e;stroke:#000000;stroke-width:0.45349312;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MingLiU_HKSCS-ExtB;-inkscape-font-specification:MingLiU_HKSCS-ExtB;fill:#0b0b0b;stroke:#000000;stroke-width:0.45349312;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
          d="m 41.364137,42.418759 v 8.086113 h 6.078562 v 2.478001 h -6.078562 v 9.129483 h 10.901985 v 2.869265 H 27.96378 v -2.869265 h 10.788423 v -9.129483 h -6.237311 v -2.478001 h 6.237311 V 42.418759 H 30.77997 v -2.869265 h 18.596713 v 2.869265 z" />
     </g>
   </g>
