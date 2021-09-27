@@ -24,7 +24,6 @@ function fix_pieces_svg() {
         if (!el.fixed) {
             el.fixed = true;
 						var piece_type = el.getAttribute('className').split(' ');
-						console.log(el, variant);
             if (variant.includes('kyoto')) {
 							var piece_id, piece_colour, piece_orientation;
 							if (piece_type.includes('p-piece')) piece_id = 'FU';
@@ -48,7 +47,6 @@ function fix_pieces_svg() {
             }
 						else {
 							var curr_href = el.getAttribute('href');
-							console.log(curr_href);
 							if (curr_href.includes('/SIeeO/')) {
 								el.setAttribute('href', 'https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master' + curr_href);
 							}
@@ -72,10 +70,8 @@ function wait_for_element(selector, callback) {
 }
 
 function set_fix(element) {
-	console.log(element);
 	const config = { childList: true, subtree: true };
 	const callback = function(mutationsList, observer) {
-		console.log(mutationsList, observer);
 		fix_pieces_svg();
 	}
 	const observer = new MutationObserver(callback);
