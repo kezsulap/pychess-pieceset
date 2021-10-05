@@ -108,6 +108,19 @@
 .sittuyin .cg-wrap piece.s-piece.black {
 	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/black-yurt.svg') !important;
 }
+/*asean*/
+.asean .cg-wrap piece.q-piece.white {
+	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.5.2/static/images/pieces/shinobi/wM.svg') !important;
+}
+.asean .cg-wrap piece.b-piece.white {
+	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/white-yurt.svg') !important;
+}
+.asean .cg-wrap piece.q-piece.black {
+	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/black-monk.svg') !important;
+}
+.asean .cg-wrap piece.b-piece.black {
+	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/black-yurt.svg') !important;
+}
 /*orda mirror*/
 .ordamirror .cg-wrap piece.k-piece.white {
 	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.6.15/static/images/pieces/merida/wK.svg') !important;
