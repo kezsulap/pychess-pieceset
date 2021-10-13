@@ -73,7 +73,7 @@
 }
 
 /*makruk variants*/
-.makruk8x8 .cg-wrap {
+.makruk8x8 cg-board {
 	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.5.2/static/images/board/8x8brown.svg') !important;
 
 }
