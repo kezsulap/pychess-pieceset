@@ -17,6 +17,10 @@
 .shinobi .cg-wrap piece.h-piece.white {
 	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/white-horsey.svg') !important;
 }
+.shinobi mpiece.j {
+	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@master/static/images/pieces/mono/hawk.svg') !important;
+}
+
 /*shogun*/
 .shogun .cg-wrap piece.f-piece.black {
 	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/black-monk.svg') !important;
@@ -56,6 +60,9 @@
 .hoppel .cg-wrap piece.b-piece.black {
 	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.5.2/static/images/pieces/hoppel/animal/bB.svg') !important;
 }
+.hoppel mpiece.n {
+    background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@master/static/images/pieces/mono/archer.svg') !important;
+}
 /*orda*/
 .orda .cg-wrap piece.k-piece.black {
 	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/gold-king.svg') !important;
@@ -88,6 +95,13 @@
 }
 .makruk .cg-wrap piece.m-piece.black, .makruk .cg-wrap piece.m-piece.promoted.black, .sittuyin .cg-wrap piece.f-piece.black, .asean .cg-wrap piece.q-piece.black {
 	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/black-monk.svg') !important;
+}
+
+.makruk mpiece.s, .sittuyin mpiece.s, .asean mpiece.b {
+    background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@master/static/images/pieces/mono/yurt.svg') !important;
+}
+.makruk mpiece.m, .sittuyin mpiece.f, .asean mpiece.q {
+    background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@master/static/images/pieces/mono/monk.svg');
 }
 /*orda mirror*/
 .ordamirror .cg-wrap piece.k-piece.white {
@@ -388,4 +402,11 @@
 }
 .kyoto .cg-wrap.orientation-black piece.k-piece.white, .kyoto .pocket.top piece.k-piece.white {
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/1GY-dark.svg') !important;
+}
+/* grand and capa */
+.capa mpiece.c, .grand mpiece.c {
+    background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@master/static/images/pieces/mono/seirawan-elephant.svg') !important;
+}
+.capa mpiece.a, .grand mpiece.a {
+    background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@master/static/images/pieces/mono/hawk.svg') !important;
 }
