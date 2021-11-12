@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -377,7 +377,7 @@
      id="namedview1719"
      showgrid="false"
      inkscape:zoom="7.8666665"
-     inkscape:cx="-25.131411"
+     inkscape:cx="-49.029717"
      inkscape:cy="25.186432"
      inkscape:window-x="72"
      inkscape:window-y="27"
@@ -410,12 +410,12 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
   <g
      transform="matrix(0.93934271,0,0,0.93934271,36.30043,1.557944)"
      id="g5079-7"
-     style="display:inline;fill:#756001;fill-opacity:1;filter:url(#drop-shadow-22)">
+     style="display:inline;fill:#9e7519;fill-opacity:1;filter:url(#drop-shadow-22)">
     <path
        d="m -10.959999,6.2374999 c -4.319,1 -8.69,2.088 -12.838,3.608 -1.492,6.3310001 -2.103,12.8800001 -3.191,19.3050001 -1.285,8.332 -2.439,16.689 -3.86,24.997 4.847,0.346 10,0.05 14.963,0.148 H 9.0850008 c -0.585,-5.657 -1.718,-11.523 -2.502,-17.26 -1.462,-8.96 -2.486,-18.012 -4.288,-26.903 -0.885,-1.0930001 -2.79899998,-0.9570001 -4.037,-1.5640001 -3.053,-0.81 -6.099,-1.875 -9.2179998,-2.332 z"
        id="path5063-6"
        inkscape:connector-curvature="0"
-       style="fill:#756001;fill-opacity:1" />
+       style="fill:#9e7519;fill-opacity:1" />
   </g>
   <g
      inkscape:groupmode="layer"
