@@ -81,7 +81,7 @@
 
 /*makruk variants*/
 .makruk8x8 cg-board {
-	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.5.2/static/images/board/8x8brown.svg') !important;
+	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.6.50/static/images/board/8x8wood2.jpg') !important;
 
 }
 .makruk .cg-wrap piece.s-piece.white, .sittuyin .cg-wrap piece.s-piece.white, .asean .cg-wrap piece.b-piece.white {
