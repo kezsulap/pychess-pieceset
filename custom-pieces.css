@@ -408,18 +408,6 @@
     background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@master/static/images/pieces/mono/hawk.svg') !important;
 }
 /*chak*/
-.chak .cg-wrap piece.r-piece.white {
-	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.5.2/static/images/pieces/merida/wR.svg') !important;
-}
-.chak .cg-wrap piece.v-piece.white {
-	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.5.2/static/images/pieces/merida/wN.svg') !important;
-}
-.chak .cg-wrap piece.k-piece.white {
-	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.5.2/static/images/pieces/merida/wK.svg') !important;
-}
-.chak .cg-wrap piece.j-piece.white {
-	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.5.2/static/images/pieces/orda/merida/wH.svg') !important;
-}
 .chak .cg-wrap piece.r-piece.black {
 	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/green-rook.svg') !important;
 }
@@ -431,6 +419,18 @@
 }
 .chak .cg-wrap piece.j-piece.black {
 	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/green-kheshig.svg') !important;
+}
+.chak .cg-wrap piece.r-piece.white {
+	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/beige-rook.svg') !important;
+}
+.chak .cg-wrap piece.v-piece.white {
+	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/beige-knight.svg') !important;
+}
+.chak .cg-wrap piece.k-piece.white {
+	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/beige-king.svg') !important;
+}
+.chak .cg-wrap piece.j-piece.white {
+	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/beige-kheshig.svg') !important;
 }
 .chak mpiece.v {
 	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@master/static/images/pieces/mono/knight.svg') !important;
