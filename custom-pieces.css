@@ -435,9 +435,9 @@
 .chak mpiece.v {
 	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@master/static/images/pieces/mono/knight.svg') !important;
 }
-.chak mpiece.k {
-	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@master/static/images/pieces/mono/king.svg') !important;
-}
 .chak mpiece.j {
 	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@master/static/images/pieces/mono/kheshig.svg') !important;
+}
+.chak mpiece.r {
+	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@master/static/images/pieces/mono/rook.svg') !important;
 }
