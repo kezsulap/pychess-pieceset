@@ -444,3 +444,54 @@
 .chak mpiece.r {
 	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@master/static/images/pieces/mono/rook.svg') !important;
 }
+/*chennis*/
+
+.chennis .cg-wrap piece.p-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/chennis/wPR.svg');
+}
+.chennis .cg-wrap piece.pp-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/chennis/wRP.svg');
+}
+.chennis .cg-wrap piece.m-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/chennis/wMN.svg');
+}
+.chennis .cg-wrap piece.pm-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/chennis/wNM.svg');
+}
+.chennis .cg-wrap piece.s-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/chennis/wSB.svg');
+}
+.chennis .cg-wrap piece.ps-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/chennis/wBS.svg');
+}
+.chennis .cg-wrap piece.f-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/chennis/wFC.svg');
+}
+.chennis .cg-wrap piece.pf-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/chennis/wCF.svg');
+}
+
+.chennis .cg-wrap piece.p-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/chennis/bPR.svg');
+}
+.chennis .cg-wrap piece.pp-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/chennis/bRP.svg');
+}
+.chennis .cg-wrap piece.m-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/chennis/bMN.svg');
+}
+.chennis .cg-wrap piece.pm-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/chennis/bNM.svg');
+}
+.chennis .cg-wrap piece.s-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/chennis/bSB.svg');
+}
+.chennis .cg-wrap piece.ps-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/chennis/bBS.svg');
+}
+.chennis .cg-wrap piece.f-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/chennis/bFC.svg');
+}
+.chennis .cg-wrap piece.pf-piece.black {
+    background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/chennis/bCF.svg');
+}
