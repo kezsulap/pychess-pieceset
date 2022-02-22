@@ -56,10 +56,10 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        id="0"
-       x1="21.129999"
-       y1="37.591999"
-       x2="77.639999"
-       y2="37.469002"
+       x1="41.5228"
+       y1="20.402664"
+       x2="30.291193"
+       y2="8.7159309"
        gradientUnits="userSpaceOnUse">
       <stop
          stop-color="#fff"
@@ -78,8 +78,8 @@
      inkscape:window-maximized="1"
      inkscape:window-y="27"
      inkscape:window-x="72"
-     inkscape:cy="92.613511"
-     inkscape:cx="-2.5138227"
+     inkscape:cy="59.390588"
+     inkscape:cx="185.74941"
      inkscape:zoom="3.6119639"
      showgrid="false"
      id="namedview4262"
