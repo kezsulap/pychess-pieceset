@@ -495,3 +495,6 @@
 .chennis .cg-wrap piece.pf-piece.black {
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/chennis1/bCF.svg');
 }
+.loa cg-board {
+	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.6.50/static/images/board/8x8wood2.jpg') !important;
+}
