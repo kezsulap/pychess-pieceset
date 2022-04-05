@@ -48,6 +48,24 @@ function fix_pieces_svg() {
 							else console.log('Unknown orientation ' + piece_type);
 							el.setAttribute('href', 'https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/' + piece_orientation + piece_id + '-' + piece_colour + '.svg');
             }
+						else if (variant.includes('chennis')) {
+							var piece_id = '', piece_colour = '';
+							if (piece_type.includes('white')) piece_colour = 'w';
+							else if (piece_type.includes('black')) piece_colour = 'b';
+							else console.log('Unknown colour ' + piece_type);
+							if (piece_type.includes('ps-piece')) piece_id = 'BS';
+							else if (piece_type.includes('pm-piece')) piece_id = 'NM';
+							else if (piece_type.includes('pp-piece')) piece_id = 'RP';
+							else if (piece_type.includes('pf-piece')) piece_id = 'CF';
+							else if (piece_type.includes('s-piece')) piece_id = 'SB';
+							else if (piece_type.includes('m-piece')) piece_id = 'MN';
+							else if (piece_type.includes('p-piece')) piece_id = 'PR';
+							else if (piece_type.includes('f-piece')) piece_id = 'FC';
+							else console.log('Unknown piece ' + piece_type);
+							if (piece_id) {
+								el.setAttribute('href', 'https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/chennis1/' + piece_colour + piece_id + '.svg');
+							}
+						}
 						else {
 							var curr_href = el.getAttribute('href');
 							if (curr_href.includes('/SIeeO/')) {
