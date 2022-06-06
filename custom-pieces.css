@@ -20,6 +20,12 @@
 .shinobi mpiece.j-piece {
 	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@master/static/images/pieces/mono/hawk.svg') !important;
 }
+.shinobi mpiece.j-piece {
+	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@master/static/images/pieces/mono/hawk.svg') !important;
+}
+.shinobi mpiece.d-piece {
+	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/mono/dragon.svg') !important;
+}
 
 /*shogun*/
 .shogun .cg-wrap piece.f-piece.black {
