@@ -17,7 +17,7 @@
 .shinobi .cg-wrap piece.d-piece.white {
 	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/white-dragon2.svg') !important;
 }
-.shinobi mpiece.j {
+.shinobi mpiece.j-piece {
 	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@master/static/images/pieces/mono/hawk.svg') !important;
 }
 
@@ -60,7 +60,7 @@
 .hoppel .cg-wrap piece.b-piece.black {
 	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.5.2/static/images/pieces/hoppel/animal/bB.svg') !important;
 }
-.hoppel mpiece.n {
+.hoppel mpiece.n-piece {
     background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@master/static/images/pieces/mono/archer.svg') !important;
 }
 /*orda*/
@@ -97,10 +97,10 @@
 	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/black-monk.svg') !important;
 }
 
-.makruk mpiece.s, .sittuyin mpiece.s, .asean mpiece.b {
+.makruk mpiece.s-piece, .sittuyin mpiece.s-piece, .asean mpiece.b-piece {
     background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@master/static/images/pieces/mono/yurt.svg') !important;
 }
-.makruk mpiece.m, .sittuyin mpiece.f, .asean mpiece.q {
+.makruk mpiece.m-piece, .sittuyin mpiece.f-piece, .asean mpiece.q-piece {
     background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@master/static/images/pieces/mono/monk.svg');
 }
 /*orda mirror*/
@@ -404,10 +404,10 @@
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/1GY-dark.svg') !important;
 }
 /* grand and capa */
-.capa mpiece.c, .grand mpiece.c {
+.capa mpiece.c-piece, .grand mpiece.c-piece {
     background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@master/static/images/pieces/mono/seirawan-elephant.svg') !important;
 }
-.capa mpiece.a, .grand mpiece.a {
+.capa mpiece.a-piece, .grand mpiece.a-piece {
     background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@master/static/images/pieces/mono/hawk.svg') !important;
 }
 /*chak*/
@@ -435,13 +435,13 @@
 .chak .cg-wrap piece.j-piece.white {
 	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/beige-kheshig.svg') !important;
 }
-.chak mpiece.v {
+.chak mpiece.v-piece {
 	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@master/static/images/pieces/mono/knight.svg') !important;
 }
-.chak mpiece.j {
+.chak mpiece.j-piece {
 	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@master/static/images/pieces/mono/kheshig.svg') !important;
 }
-.chak mpiece.r {
+.chak mpiece.r-piece {
 	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@master/static/images/pieces/mono/rook.svg') !important;
 }
 /*chennis*/
