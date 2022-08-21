@@ -507,3 +507,22 @@
 body.dark-board {
     --dark-factor: 0;
 }
+/*merida vs cburnett*/
+.standard .cg-wrap piece.p-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@master/static/images/pieces/green/wP.svg');
+}
+.standard .cg-wrap piece.b-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@master/static/images/pieces/green/wB.svg');
+}
+.standard .cg-wrap piece.n-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@master/static/images/pieces/green/wN.svg');
+}
+.standard .cg-wrap piece.r-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@master/static/images/pieces/green/wR.svg');
+}
+.standard .cg-wrap piece.q-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@master/static/images/pieces/green/wQ.svg');
+}
+.standard .cg-wrap piece.k-piece.white {
+    background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@master/static/images/pieces/green/wK.svg');
+}
