@@ -8,6 +8,7 @@
 // @match        https://pychess-variants-pr-657.herokuapp.com/*
 // @match        https://liantichess.herokuapp.com/*
 // @match        https://playstrategy.org/*
+// @match        127.0.0.1:8080/*
 // @grant        GM_addStyle
 // @grant        GM_getResourceText
 // @resource     custom_piecesCSS https://raw.githubusercontent.com/kezsulap/pychess-pieceset/<current_commit_hash>/custom-pieces.css
