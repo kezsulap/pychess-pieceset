@@ -26,6 +26,9 @@
 .shinobi mpiece.d-piece {
 	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/mono/dragon.svg') !important;
 }
+	.shinobi .cg-wrap piece.m-piece.white {
+		background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@master/static/images/pieces/chak/WS.svg') !important;
+	}
 
 /*shogun*/
 .shogun .cg-wrap piece.f-piece.black {
