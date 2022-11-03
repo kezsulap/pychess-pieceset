@@ -88,8 +88,35 @@
 /*makruk variants*/
 .makruk8x8 cg-board {
 	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.6.50/static/images/board/8x8wood2.jpg') !important;
-
 }
+
+.makruk .cg-wrap piece.r-piece.white, .sittuyin .cg-wrap piece.r-piece.white {
+	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.9.10/static/images/pieces/merida/wR.svg') !important;
+}
+.makruk .cg-wrap piece.r-piece.black, .sittuyin .cg-wrap piece.r-piece.black {
+	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.9.10/static/images/pieces/merida/bR.svg') !important;
+}
+
+.makruk .cg-wrap piece.n-piece.white, .sittuyin .cg-wrap piece.n-piece.white {
+	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.9.10/static/images/pieces/merida/wN.svg') !important;
+}
+.makruk .cg-wrap piece.n-piece.black, .sittuyin .cg-wrap piece.n-piece.black {
+	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.9.10/static/images/pieces/merida/bN.svg') !important;
+}
+
+.makruk .cg-wrap piece.k-piece.white, .sittuyin .cg-wrap piece.k-piece.white {
+	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.9.10/static/images/pieces/merida/wK.svg') !important;
+}
+.makruk .cg-wrap piece.k-piece.black, .sittuyin .cg-wrap piece.k-piece.black {
+	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.9.10/static/images/pieces/merida/bK.svg') !important;
+}
+.makruk .cg-wrap piece.p-piece.white, .sittuyin .cg-wrap piece.p-piece.white {
+	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.9.10/static/images/pieces/merida/wP.svg') !important;
+}
+.makruk .cg-wrap piece.p-piece.black, .sittuyin .cg-wrap piece.p-piece.black {
+	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.9.10/static/images/pieces/merida/bP.svg') !important;
+}
+
 .makruk .cg-wrap piece.s-piece.white, .sittuyin .cg-wrap piece.s-piece.white, .asean .cg-wrap piece.b-piece.white {
 	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/white-yurt.svg') !important;
 }
@@ -415,6 +442,18 @@
 }
 .capa mpiece.a-piece, .grand mpiece.a-piece {
     background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@master/static/images/pieces/mono/hawk.svg') !important;
+}
+.capa .cg-wrap piece.a-piece.white, .grand .cg-wrap piece.a-piece.white {
+	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.5.2/static/images/pieces/merida/wH.svg') !important;
+}
+.capa .cg-wrap piece.c-piece.white, .grand .cg-wrap piece.c-piece.white {
+	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.5.2/static/images/pieces/merida/wE.svg') !important;
+}
+.capa .cg-wrap piece.a-piece.black, .grand .cg-wrap piece.a-piece.black {
+	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.5.2/static/images/pieces/merida/bH.svg') !important;
+}
+.capa .cg-wrap piece.c-piece.black, .grand .cg-wrap piece.c-piece.black {
+	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.5.2/static/images/pieces/merida/bE.svg') !important;
 }
 /*chak*/
 .chak .cg-wrap piece.r-piece.black {
