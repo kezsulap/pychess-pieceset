@@ -571,3 +571,7 @@
 body.dark-board {
     --dark-factor: 0;
 }
+/*duck*/
+.standard .cg-wrap piece._-piece {
+    background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.9.17/static/images/pieces/duck.svg');
+}
