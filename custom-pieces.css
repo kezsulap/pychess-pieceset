@@ -516,6 +516,9 @@
 }
 /*chennis*/
 
+.chennis .cg-wrap piece.k-piece.white {
+	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.5.2/static/images/pieces/merida/wK.svg') !important;
+}
 .chennis .cg-wrap piece.p-piece.white {
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/chennis1/wPR.svg'); !important;
 }
@@ -541,6 +544,9 @@
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/chennis1/wCF.svg'); !important;
 }
 
+.chennis .cg-wrap piece.k-piece.black {
+	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.5.2/static/images/pieces/merida/bK.svg') !important;
+}
 .chennis .cg-wrap piece.p-piece.black {
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/chennis1/bPR.svg'); !important;
 }

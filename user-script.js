@@ -11,8 +11,11 @@
 // @match        https://pychess-pr-657.herokuapp.com/*
 // @match        https://lishogi.org/*
 // @match        127.0.0.1:8080/*
+// @match        127.0.0.1:2137/*
+// @match        127.0.0.1:1410/*
 // @match        https://pychess-puzzler.herokuapp.com/*
 // @match        https://pychess-variants-dev.onrender.com/*
+// @match        https://pychess-puzzler.onrender.com/*
 // @grant        GM_addStyle
 // @grant        GM_getResourceText
 // @resource     custom_piecesCSS https://raw.githubusercontent.com/kezsulap/pychess-pieceset/<current_commit_hash>/custom-pieces.css
