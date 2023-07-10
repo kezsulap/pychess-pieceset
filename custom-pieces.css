@@ -352,113 +352,113 @@
 
 
 /*kyoto*/
-.kyoto .cg-wrap.orientation-white piece.p-piece.white, .variant-kyotoshogi .sg-wrap.orientation-sente piece.pawn.sente, .kyoto .pocket.bottom .p-piece.white, .variant-kyotoshogi .spare-bottom .pawn.sente, .variant-kyotoshogi .hand-bottom .pawn.sente{
+.kyoto .cg-wrap.orientation-white piece.p-piece.white, body .variant-kyotoshogi .sg-wrap.orientation-sente piece.pawn.sente, .kyoto .pocket.bottom .p-piece.white, body .variant-kyotoshogi .spare-bottom .pawn.sente, body .variant-kyotoshogi .hand-bottom .pawn.sente{
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/0FU-dark.svg') !important;
 }
-.kyoto .cg-wrap.orientation-white piece.pp-piece.white, .variant-kyotoshogi .sg-wrap.orientation-sente piece.rook.sente, .kyoto .pocket.bottom piece.pp-piece.white, .variant-kyotoshogi .spare-bottom piece.rook.sente, .variant-kyotoshogi .hand-bottom piece.rook.sente{
+.kyoto .cg-wrap.orientation-white piece.pp-piece.white, body .variant-kyotoshogi .sg-wrap.orientation-sente piece.rook.sente, .kyoto .pocket.bottom piece.pp-piece.white, body .variant-kyotoshogi .spare-bottom piece.rook.sente, body .variant-kyotoshogi .hand-bottom piece.rook.sente{
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/0HI-dark.svg') !important;
 }
-.kyoto .cg-wrap.orientation-white piece.n-piece.white, .variant-kyotoshogi .sg-wrap.orientation-sente piece.knight.sente, .kyoto .pocket.bottom piece.n-piece.white, .variant-kyotoshogi .spare-bottom piece.knight.sente, .variant-kyotoshogi .hand-bottom piece.knight.sente{
+.kyoto .cg-wrap.orientation-white piece.n-piece.white, body .variant-kyotoshogi .sg-wrap.orientation-sente piece.knight.sente, .kyoto .pocket.bottom piece.n-piece.white, body .variant-kyotoshogi .spare-bottom piece.knight.sente, body .variant-kyotoshogi .hand-bottom piece.knight.sente{
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/0KE-dark.svg') !important;
 }
-.kyoto .cg-wrap.orientation-white piece.pn-piece.white, .variant-kyotoshogi .sg-wrap.orientation-sente piece.gold.sente, .kyoto .pocket.bottom piece.pn-piece.white, .variant-kyotoshogi .spare-bottom piece.gold.sente, .variant-kyotoshogi .hand-bottom piece.gold.sente{
+.kyoto .cg-wrap.orientation-white piece.pn-piece.white, body .variant-kyotoshogi .sg-wrap.orientation-sente piece.gold.sente, .kyoto .pocket.bottom piece.pn-piece.white, body .variant-kyotoshogi .spare-bottom piece.gold.sente, body .variant-kyotoshogi .hand-bottom piece.gold.sente{
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/0KI-dark.svg') !important;
 }
-.kyoto .cg-wrap.orientation-white piece.l-piece.white, .variant-kyotoshogi .sg-wrap.orientation-sente piece.lance.sente, .kyoto .pocket.bottom piece.l-piece.white, .variant-kyotoshogi .spare-bottom piece.lance.sente, .variant-kyotoshogi .hand-bottom piece.lance.sente{
+.kyoto .cg-wrap.orientation-white piece.l-piece.white, body .variant-kyotoshogi .sg-wrap.orientation-sente piece.lance.sente, .kyoto .pocket.bottom piece.l-piece.white, body .variant-kyotoshogi .spare-bottom piece.lance.sente, body .variant-kyotoshogi .hand-bottom piece.lance.sente{
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/0KY-dark.svg') !important;
 }
-.kyoto .cg-wrap.orientation-white piece.pl-piece.white, .variant-kyotoshogi .sg-wrap.orientation-sente piece.tokin.sente, .kyoto .pocket.bottom piece.pl-piece.white, .variant-kyotoshogi .spare-bottom piece.tokin.sente, .variant-kyotoshogi .hand-bottom piece.tokin.sente{
+.kyoto .cg-wrap.orientation-white piece.pl-piece.white, body .variant-kyotoshogi .sg-wrap.orientation-sente piece.tokin.sente, .kyoto .pocket.bottom piece.pl-piece.white, body .variant-kyotoshogi .spare-bottom piece.tokin.sente, body .variant-kyotoshogi .hand-bottom piece.tokin.sente{
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/0TO-dark.svg') !important;
 }
-.kyoto .cg-wrap.orientation-white piece.s-piece.white, .variant-kyotoshogi .sg-wrap.orientation-sente piece.silver.sente, .kyoto .pocket.bottom piece.s-piece.white, .variant-kyotoshogi .spare-bottom piece.silver.sente, .variant-kyotoshogi .hand-bottom piece.silver.sente{
+.kyoto .cg-wrap.orientation-white piece.s-piece.white, body .variant-kyotoshogi .sg-wrap.orientation-sente piece.silver.sente, .kyoto .pocket.bottom piece.s-piece.white, body .variant-kyotoshogi .spare-bottom piece.silver.sente, body .variant-kyotoshogi .hand-bottom piece.silver.sente{
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/0GI-dark.svg') !important;
 }
-.kyoto .cg-wrap.orientation-white piece.ps-piece.white, .variant-kyotoshogi .sg-wrap.orientation-sente piece.bishop.sente, .kyoto .pocket.bottom piece.ps-piece.white, .variant-kyotoshogi .spare-bottom piece.bishop.sente, .variant-kyotoshogi .hand-bottom piece.bishop.sente{
+.kyoto .cg-wrap.orientation-white piece.ps-piece.white, body .variant-kyotoshogi .sg-wrap.orientation-sente piece.bishop.sente, .kyoto .pocket.bottom piece.ps-piece.white, body .variant-kyotoshogi .spare-bottom piece.bishop.sente, body .variant-kyotoshogi .hand-bottom piece.bishop.sente{
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/0KA-dark.svg') !important;
 }
-.kyoto .cg-wrap.orientation-white piece.k-piece.white, .variant-kyotoshogi .sg-wrap.orientation-sente piece.king.sente, .kyoto .pocket.bottom piece.k-piece.white, .variant-kyotoshogi .spare-bottom piece.king.sente, .variant-kyotoshogi .hand-bottom piece.king.sente{
+.kyoto .cg-wrap.orientation-white piece.k-piece.white, body .variant-kyotoshogi .sg-wrap.orientation-sente piece.king.sente, .kyoto .pocket.bottom piece.k-piece.white, body .variant-kyotoshogi .spare-bottom piece.king.sente, body .variant-kyotoshogi .hand-bottom piece.king.sente{
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/0GY-dark.svg') !important;
 }
-.kyoto .cg-wrap.orientation-white piece.p-piece.black, .variant-kyotoshogi .sg-wrap.orientation-sente piece.pawn.gote, .kyoto .pocket.top piece.p-piece.black, .variant-kyotoshogi .spare-top piece.pawn.gote, .variant-kyotoshogi .hand-top piece.pawn.gote{
+.kyoto .cg-wrap.orientation-white piece.p-piece.black, body .variant-kyotoshogi .sg-wrap.orientation-sente piece.pawn.gote, .kyoto .pocket.top piece.p-piece.black, body .variant-kyotoshogi .spare-top piece.pawn.gote, body .variant-kyotoshogi .hand-top piece.pawn.gote{
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/1FU-bright.svg') !important;
 }
-.kyoto .cg-wrap.orientation-white piece.pp-piece.black, .variant-kyotoshogi .sg-wrap.orientation-sente piece.rook.gote, .kyoto .pocket.top piece.pp-piece.black, .variant-kyotoshogi .spare-top piece.rook.gote, .variant-kyotoshogi .hand-top piece.rook.gote{
+.kyoto .cg-wrap.orientation-white piece.pp-piece.black, body .variant-kyotoshogi .sg-wrap.orientation-sente piece.rook.gote, .kyoto .pocket.top piece.pp-piece.black, body .variant-kyotoshogi .spare-top piece.rook.gote, body .variant-kyotoshogi .hand-top piece.rook.gote{
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/1HI-bright.svg') !important;
 }
-.kyoto .cg-wrap.orientation-white piece.n-piece.black, .variant-kyotoshogi .sg-wrap.orientation-sente piece.knight.gote, .kyoto .pocket.top piece.n-piece.black, .variant-kyotoshogi .spare-top piece.knight.gote, .variant-kyotoshogi .hand-top piece.knight.gote{
+.kyoto .cg-wrap.orientation-white piece.n-piece.black, body .variant-kyotoshogi .sg-wrap.orientation-sente piece.knight.gote, .kyoto .pocket.top piece.n-piece.black, body .variant-kyotoshogi .spare-top piece.knight.gote, body .variant-kyotoshogi .hand-top piece.knight.gote{
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/1KE-bright.svg') !important;
 }
-.kyoto .cg-wrap.orientation-white piece.pn-piece.black, .variant-kyotoshogi .sg-wrap.orientation-sente piece.gold.gote, .kyoto .pocket.top piece.pn-piece.black, .variant-kyotoshogi .spare-top piece.gold.gote, .variant-kyotoshogi .hand-top piece.gold.gote{
+.kyoto .cg-wrap.orientation-white piece.pn-piece.black, body .variant-kyotoshogi .sg-wrap.orientation-sente piece.gold.gote, .kyoto .pocket.top piece.pn-piece.black, body .variant-kyotoshogi .spare-top piece.gold.gote, body .variant-kyotoshogi .hand-top piece.gold.gote{
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/1KI-bright.svg') !important;
 }
-.kyoto .cg-wrap.orientation-white piece.l-piece.black, .variant-kyotoshogi .sg-wrap.orientation-sente piece.lance.gote, .kyoto .pocket.top piece.l-piece.black, .variant-kyotoshogi .spare-top piece.lance.gote, .variant-kyotoshogi .hand-top piece.lance.gote{
+.kyoto .cg-wrap.orientation-white piece.l-piece.black, body .variant-kyotoshogi .sg-wrap.orientation-sente piece.lance.gote, .kyoto .pocket.top piece.l-piece.black, body .variant-kyotoshogi .spare-top piece.lance.gote, body .variant-kyotoshogi .hand-top piece.lance.gote{
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/1KY-bright.svg') !important;
 }
-.kyoto .cg-wrap.orientation-white piece.pl-piece.black, .variant-kyotoshogi .sg-wrap.orientation-sente piece.tokin.gote, .kyoto .pocket.top piece.pl-piece.black, .variant-kyotoshogi .spare-top piece.tokin.gote, .variant-kyotoshogi .hand-top piece.tokin.gote{
+.kyoto .cg-wrap.orientation-white piece.pl-piece.black, body .variant-kyotoshogi .sg-wrap.orientation-sente piece.tokin.gote, .kyoto .pocket.top piece.pl-piece.black, body .variant-kyotoshogi .spare-top piece.tokin.gote, body .variant-kyotoshogi .hand-top piece.tokin.gote{
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/1TO-bright.svg') !important;
 }
-.kyoto .cg-wrap.orientation-white piece.s-piece.black, .variant-kyotoshogi .sg-wrap.orientation-sente piece.silver.gote, .kyoto .pocket.top piece.s-piece.black, .variant-kyotoshogi .spare-top piece.silver.gote, .variant-kyotoshogi .hand-top piece.silver.gote{
+.kyoto .cg-wrap.orientation-white piece.s-piece.black, body .variant-kyotoshogi .sg-wrap.orientation-sente piece.silver.gote, .kyoto .pocket.top piece.s-piece.black, body .variant-kyotoshogi .spare-top piece.silver.gote, body .variant-kyotoshogi .hand-top piece.silver.gote{
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/1GI-bright.svg') !important;
 }
-.kyoto .cg-wrap.orientation-white piece.ps-piece.black, .variant-kyotoshogi .sg-wrap.orientation-sente piece.bishop.gote, .kyoto .pocket.top piece.ps-piece.black, .variant-kyotoshogi .spare-top piece.bishop.gote, .variant-kyotoshogi .hand-top piece.bishop.gote{
+.kyoto .cg-wrap.orientation-white piece.ps-piece.black, body .variant-kyotoshogi .sg-wrap.orientation-sente piece.bishop.gote, .kyoto .pocket.top piece.ps-piece.black, body .variant-kyotoshogi .spare-top piece.bishop.gote, body .variant-kyotoshogi .hand-top piece.bishop.gote{
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/1KA-bright.svg') !important;
 }
-.kyoto .cg-wrap.orientation-white piece.k-piece.black, .variant-kyotoshogi .sg-wrap.orientation-sente piece.king.gote, .kyoto .pocket.top piece.k-piece.black, .variant-kyotoshogi .spare-top piece.king.gote, .variant-kyotoshogi .hand-top piece.king.gote{
+.kyoto .cg-wrap.orientation-white piece.k-piece.black, body .variant-kyotoshogi .sg-wrap.orientation-sente piece.king.gote, .kyoto .pocket.top piece.k-piece.black, body .variant-kyotoshogi .spare-top piece.king.gote, body .variant-kyotoshogi .hand-top piece.king.gote{
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/1GY-bright.svg') !important;
 }
 
-.kyoto .cg-wrap.orientation-black piece.p-piece.black, .variant-kyotoshogi .sg-wrap.orientation-gote piece.pawn.gote, .kyoto .pocket.bottom piece.p-piece.black, .variant-kyotoshogi .spare-bottom piece.pawn.gote, .variant-kyotoshogi .hand-bottom piece.pawn.gote{
+.kyoto .cg-wrap.orientation-black piece.p-piece.black, body .variant-kyotoshogi .sg-wrap.orientation-gote piece.pawn.gote, .kyoto .pocket.bottom piece.p-piece.black, body .variant-kyotoshogi .spare-bottom piece.pawn.gote, body .variant-kyotoshogi .hand-bottom piece.pawn.gote{
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/0FU-bright.svg') !important;
 }
-.kyoto .cg-wrap.orientation-black piece.pp-piece.black, .variant-kyotoshogi .sg-wrap.orientation-gote piece.rook.gote, .kyoto .pocket.bottom piece.pp-piece.black, .variant-kyotoshogi .spare-bottom piece.rook.gote, .variant-kyotoshogi .hand-bottom piece.rook.gote{
+.kyoto .cg-wrap.orientation-black piece.pp-piece.black, body .variant-kyotoshogi .sg-wrap.orientation-gote piece.rook.gote, .kyoto .pocket.bottom piece.pp-piece.black, body .variant-kyotoshogi .spare-bottom piece.rook.gote, body .variant-kyotoshogi .hand-bottom piece.rook.gote{
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/0HI-bright.svg') !important;
 }
-.kyoto .cg-wrap.orientation-black piece.n-piece.black, .variant-kyotoshogi .sg-wrap.orientation-gote piece.knight.gote, .kyoto .pocket.bottom piece.n-piece.black, .variant-kyotoshogi .spare-bottom piece.knight.gote, .variant-kyotoshogi .hand-bottom piece.knight.gote{
+.kyoto .cg-wrap.orientation-black piece.n-piece.black, body .variant-kyotoshogi .sg-wrap.orientation-gote piece.knight.gote, .kyoto .pocket.bottom piece.n-piece.black, body .variant-kyotoshogi .spare-bottom piece.knight.gote, body .variant-kyotoshogi .hand-bottom piece.knight.gote{
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/0KE-bright.svg') !important;
 }
-.kyoto .cg-wrap.orientation-black piece.pn-piece.black, .variant-kyotoshogi .sg-wrap.orientation-gote piece.gold.gote, .kyoto .pocket.bottom piece.pn-piece.black, .variant-kyotoshogi .spare-bottom piece.gold.gote, .variant-kyotoshogi .hand-bottom piece.gold.gote{
+.kyoto .cg-wrap.orientation-black piece.pn-piece.black, body .variant-kyotoshogi .sg-wrap.orientation-gote piece.gold.gote, .kyoto .pocket.bottom piece.pn-piece.black, body .variant-kyotoshogi .spare-bottom piece.gold.gote, body .variant-kyotoshogi .hand-bottom piece.gold.gote{
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/0KI-bright.svg') !important;
 }
-.kyoto .cg-wrap.orientation-black piece.l-piece.black, .variant-kyotoshogi .sg-wrap.orientation-gote piece.lance.gote, .kyoto .pocket.bottom piece.l-piece.black, .variant-kyotoshogi .spare-bottom piece.lance.gote, .variant-kyotoshogi .hand-bottom piece.lance.gote{
+.kyoto .cg-wrap.orientation-black piece.l-piece.black, body .variant-kyotoshogi .sg-wrap.orientation-gote piece.lance.gote, .kyoto .pocket.bottom piece.l-piece.black, body .variant-kyotoshogi .spare-bottom piece.lance.gote, body .variant-kyotoshogi .hand-bottom piece.lance.gote{
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/0KY-bright.svg') !important;
 }
-.kyoto .cg-wrap.orientation-black piece.pl-piece.black, .variant-kyotoshogi .sg-wrap.orientation-gote piece.tokin.gote, .kyoto .pocket.bottom piece.pl-piece.black, .variant-kyotoshogi .spare-bottom piece.tokin.gote, .variant-kyotoshogi .hand-bottom piece.tokin.gote{
+.kyoto .cg-wrap.orientation-black piece.pl-piece.black, body .variant-kyotoshogi .sg-wrap.orientation-gote piece.tokin.gote, .kyoto .pocket.bottom piece.pl-piece.black, body .variant-kyotoshogi .spare-bottom piece.tokin.gote, body .variant-kyotoshogi .hand-bottom piece.tokin.gote{
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/0TO-bright.svg') !important;
 }
-.kyoto .cg-wrap.orientation-black piece.s-piece.black, .variant-kyotoshogi .sg-wrap.orientation-gote piece.silver.gote, .kyoto .pocket.bottom piece.s-piece.black, .variant-kyotoshogi .spare-bottom piece.silver.gote, .variant-kyotoshogi .hand-bottom piece.silver.gote{
+.kyoto .cg-wrap.orientation-black piece.s-piece.black, body .variant-kyotoshogi .sg-wrap.orientation-gote piece.silver.gote, .kyoto .pocket.bottom piece.s-piece.black, body .variant-kyotoshogi .spare-bottom piece.silver.gote, body .variant-kyotoshogi .hand-bottom piece.silver.gote{
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/0GI-bright.svg') !important;
 }
-.kyoto .cg-wrap.orientation-black piece.ps-piece.black, .variant-kyotoshogi .sg-wrap.orientation-gote piece.bishop.gote, .kyoto .pocket.bottom piece.ps-piece.black, .variant-kyotoshogi .spare-bottom piece.bishop.gote, .variant-kyotoshogi .hand-bottom piece.bishop.gote{
+.kyoto .cg-wrap.orientation-black piece.ps-piece.black, body .variant-kyotoshogi .sg-wrap.orientation-gote piece.bishop.gote, .kyoto .pocket.bottom piece.ps-piece.black, body .variant-kyotoshogi .spare-bottom piece.bishop.gote, body .variant-kyotoshogi .hand-bottom piece.bishop.gote{
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/0KA-bright.svg') !important;
 }
-.kyoto .cg-wrap.orientation-black piece.k-piece.black, .variant-kyotoshogi .sg-wrap.orientation-gote piece.king.gote, .kyoto .pocket.bottom piece.k-piece.black, .variant-kyotoshogi .spare-bottom piece.king.gote, .variant-kyotoshogi .hand-bottom piece.king.gote{
+.kyoto .cg-wrap.orientation-black piece.k-piece.black, body .variant-kyotoshogi .sg-wrap.orientation-gote piece.king.gote, .kyoto .pocket.bottom piece.k-piece.black, body .variant-kyotoshogi .spare-bottom piece.king.gote, body .variant-kyotoshogi .hand-bottom piece.king.gote{
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/0GY-bright.svg') !important;
 }
-.kyoto .cg-wrap.orientation-black piece.p-piece.white, .variant-kyotoshogi .sg-wrap.orientation-gote piece.pawn.sente, .kyoto .pocket.top piece.p-piece.white, .variant-kyotoshogi .spare-top piece.pawn.sente, .variant-kyotoshogi .hand-top piece.pawn.sente{
+.kyoto .cg-wrap.orientation-black piece.p-piece.white, body .variant-kyotoshogi .sg-wrap.orientation-gote piece.pawn.sente, .kyoto .pocket.top piece.p-piece.white, body .variant-kyotoshogi .spare-top piece.pawn.sente, body .variant-kyotoshogi .hand-top piece.pawn.sente{
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/1FU-dark.svg') !important;
 }
-.kyoto .cg-wrap.orientation-black piece.pp-piece.white, .variant-kyotoshogi .sg-wrap.orientation-gote piece.rook.sente, .kyoto .pocket.top piece.pp-piece.white, .variant-kyotoshogi .spare-top piece.rook.sente, .variant-kyotoshogi .hand-top piece.rook.sente{
+.kyoto .cg-wrap.orientation-black piece.pp-piece.white, body .variant-kyotoshogi .sg-wrap.orientation-gote piece.rook.sente, .kyoto .pocket.top piece.pp-piece.white, body .variant-kyotoshogi .spare-top piece.rook.sente, body .variant-kyotoshogi .hand-top piece.rook.sente{
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/1HI-dark.svg') !important;
 }
-.kyoto .cg-wrap.orientation-black piece.n-piece.white, .variant-kyotoshogi .sg-wrap.orientation-gote piece.knight.sente, .kyoto .pocket.top piece.n-piece.white, .variant-kyotoshogi .spare-top piece.knight.sente, .variant-kyotoshogi .hand-top piece.knight.sente{
+.kyoto .cg-wrap.orientation-black piece.n-piece.white, body .variant-kyotoshogi .sg-wrap.orientation-gote piece.knight.sente, .kyoto .pocket.top piece.n-piece.white, body .variant-kyotoshogi .spare-top piece.knight.sente, body .variant-kyotoshogi .hand-top piece.knight.sente{
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/1KE-dark.svg') !important;
 }
-.kyoto .cg-wrap.orientation-black piece.pn-piece.white, .variant-kyotoshogi .sg-wrap.orientation-gote piece.gold.sente, .kyoto .pocket.top piece.pn-piece.white, .variant-kyotoshogi .spare-top piece.gold.sente, .variant-kyotoshogi .hand-top piece.gold.sente{
+.kyoto .cg-wrap.orientation-black piece.pn-piece.white, body .variant-kyotoshogi .sg-wrap.orientation-gote piece.gold.sente, .kyoto .pocket.top piece.pn-piece.white, body .variant-kyotoshogi .spare-top piece.gold.sente, body .variant-kyotoshogi .hand-top piece.gold.sente{
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/1KI-dark.svg') !important;
 }
-.kyoto .cg-wrap.orientation-black piece.l-piece.white, .variant-kyotoshogi .sg-wrap.orientation-gote piece.lance.sente, .kyoto .pocket.top piece.l-piece.white, .variant-kyotoshogi .spare-top piece.lance.sente, .variant-kyotoshogi .hand-top piece.lance.sente{
+.kyoto .cg-wrap.orientation-black piece.l-piece.white, body .variant-kyotoshogi .sg-wrap.orientation-gote piece.lance.sente, .kyoto .pocket.top piece.l-piece.white, body .variant-kyotoshogi .spare-top piece.lance.sente, body .variant-kyotoshogi .hand-top piece.lance.sente{
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/1KY-dark.svg') !important;
 }
-.kyoto .cg-wrap.orientation-black piece.pl-piece.white, .variant-kyotoshogi .sg-wrap.orientation-gote piece.tokin.sente, .kyoto .pocket.top piece.pl-piece.white, .variant-kyotoshogi .spare-top piece.tokin.sente, .variant-kyotoshogi .hand-top piece.tokin.sente{
+.kyoto .cg-wrap.orientation-black piece.pl-piece.white, body .variant-kyotoshogi .sg-wrap.orientation-gote piece.tokin.sente, .kyoto .pocket.top piece.pl-piece.white, body .variant-kyotoshogi .spare-top piece.tokin.sente, body .variant-kyotoshogi .hand-top piece.tokin.sente{
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/1TO-dark.svg') !important;
 }
-.kyoto .cg-wrap.orientation-black piece.s-piece.white, .variant-kyotoshogi .sg-wrap.orientation-gote piece.silver.sente, .kyoto .pocket.top piece.s-piece.white, .variant-kyotoshogi .spare-top piece.silver.sente, .variant-kyotoshogi .hand-top piece.silver.sente{
+.kyoto .cg-wrap.orientation-black piece.s-piece.white, body .variant-kyotoshogi .sg-wrap.orientation-gote piece.silver.sente, .kyoto .pocket.top piece.s-piece.white, body .variant-kyotoshogi .spare-top piece.silver.sente, body .variant-kyotoshogi .hand-top piece.silver.sente{
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/1GI-dark.svg') !important;
 }
-.kyoto .cg-wrap.orientation-black piece.ps-piece.white, .variant-kyotoshogi .sg-wrap.orientation-gote piece.bishop.sente, .kyoto .pocket.top piece.ps-piece.white, .variant-kyotoshogi .spare-top piece.bishop.sente, .variant-kyotoshogi .hand-top piece.bishop.sente{
+.kyoto .cg-wrap.orientation-black piece.ps-piece.white, body .variant-kyotoshogi .sg-wrap.orientation-gote piece.bishop.sente, .kyoto .pocket.top piece.ps-piece.white, body .variant-kyotoshogi .spare-top piece.bishop.sente, body .variant-kyotoshogi .hand-top piece.bishop.sente{
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/1KA-dark.svg') !important;
 }
-.kyoto .cg-wrap.orientation-black piece.k-piece.white, .variant-kyotoshogi .sg-wrap.orientation-gote piece.king.sente, .kyoto .pocket.top piece.k-piece.white, .variant-kyotoshogi .spare-top piece.king.sente, .variant-kyotoshogi .hand-top piece.king.sente{
+.kyoto .cg-wrap.orientation-black piece.k-piece.white, body .variant-kyotoshogi .sg-wrap.orientation-gote piece.king.sente, .kyoto .pocket.top piece.k-piece.white, body .variant-kyotoshogi .spare-top piece.king.sente, body .variant-kyotoshogi .hand-top piece.king.sente{
     background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/kyoto/1GY-dark.svg') !important;
 }
 /* grand and capa */
