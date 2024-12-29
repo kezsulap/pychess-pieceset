@@ -591,5 +591,10 @@ body.dark-board {
 .spartan .cg-wrap piece.w-piece.black {
 	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.5.2/static/images/pieces/merida/bH.svg') !important;
 }
-
-
+/*dragon*/
+.dragon .cg-wrap piece.d-piece.black {
+	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.5.2/static/images/pieces/merida/bH.svg') !important;
+}
+.dragon .cg-wrap piece.d-piece.white {
+	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.5.2/static/images/pieces/merida/wH.svg') !important;
+}
