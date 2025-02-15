@@ -8,17 +8,17 @@
    viewBox="0 0 50 50"
    width="177.17"
    version="1.1"
-   id="svg400"
-   sodipodi:docname="white-monk.svg"
+   id="svg538"
+   sodipodi:docname="white-lance.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs404" />
+     id="defs542" />
   <sodipodi:namedview
-     id="namedview402"
+     id="namedview540"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
@@ -35,51 +35,43 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg400" />
+     inkscape:current-layer="svg538" />
   <linearGradient
      id="a"
      gradientUnits="userSpaceOnUse"
-     x1="75.111198"
-     x2="114.43468"
-     y1="22.772614"
-     y2="22.772614"
-     gradientTransform="translate(-52.511034,-4.97923)">
+     x1="468.82767"
+     x2="491.39178"
+     y1="244.41174"
+     y2="244.41174"
+     gradientTransform="matrix(1.2108754,0,0,-1.0098715,-544.28732,269.17709)">
     <stop
        offset="0"
        stop-color="#fae4ed"
-       id="stop385"
+       id="stop523"
        style="stop-color:#fafafa;stop-opacity:1;" />
     <stop
        offset="1"
        stop-color="#1f1a17"
-       id="stop387" />
+       id="stop525" />
   </linearGradient>
-  <ellipse
-     cx="25.000013"
-     cy="24.102121"
-     fill="#1f1a17"
-     rx="9.7507782"
-     ry="12.20601"
-     stroke-linecap="square"
-     stroke-linejoin="bevel"
-     stroke-width="0.56443"
-     id="ellipse390"
-     style="stroke:#1f1a17" />
-  <path
-     d="m 24.998105,10.200521 c 8.698496,-5.49e-4 18.96239,15.185724 18.96239,15.185724 H 6.039331 c 0,0 10.261155,-15.185174 18.958774,-15.185724 z"
-     fill="url(#a)"
-     stroke-width="1.69329"
-     id="path392"
-     style="fill:url(#a);stroke:#1f1a17" />
-  <ellipse
-     cx="24.999996"
-     cy="37.746632"
-     fill="none"
-     rx="5.611959"
-     ry="7.8567419"
-     stroke-linecap="square"
-     stroke-linejoin="bevel"
-     stroke-width="1.69329"
-     id="ellipse396"
-     style="stroke:#1f1a17" />
+  <g
+     id="g3028">
+    <path
+       d="M 24.728374,6.0324395 12.777518,37.016065 24.121544,40.374867 h 1.58707 l 11.501609,-3.358802 z"
+       fill="url(#a)"
+       stroke-width="1.69329"
+       id="path528"
+       style="fill:url(#a);stroke:#1f1a17" />
+    <path
+       d="m 24.200396,40.44885 v 5.227984 h 1.558615 c 0,-3.156849 0.0073,1.513009 0.03717,-5.218935 z"
+       fill="none"
+       stroke-width="1.69329"
+       id="path530"
+       style="stroke:#1f1a17" />
+    <path
+       d="M 25.000009,16.472973 V 35.123775"
+       fill="none"
+       id="path534"
+       style="stroke:#1f1a17;stroke-width:1.69329" />
+  </g>
 </svg>

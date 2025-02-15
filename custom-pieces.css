@@ -12,10 +12,28 @@
 	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.5.2/static/images/pieces/merida/wR.svg') !important;
 }
 .shinobi .cg-wrap piece.h-piece.white {
-	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/white-horsey.svg') !important;
+	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@277080ee8ac6521f1279be21f2b5aed1a2d9ac65/static/SIeeO/white-horsey.svg') !important;
 }
 .shinobi .cg-wrap piece.d-piece.white {
 	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/white-dragon2.svg') !important;
+}
+.shinobi .cg-wrap piece.ph-piece.white {
+	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.5.2/static/images/pieces/merida/wN.svg') !important;
+}
+.shinobi .cg-wrap piece.p-piece.white {
+	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.5.2/static/images/pieces/merida/wP.svg') !important;
+}
+.shinobi .cg-wrap piece.pp-piece.white, piece.c-piece.white {
+	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@master/static/images/pieces/shogun/merida/mono/wC.svg') !important;
+}
+.shinobi .cg-wrap piece.f-piece.white {
+	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/white-fox.svg') !important;
+}
+.shinobi .cg-wrap piece.l-piece.white {
+	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/white-lance.svg') !important;
+}
+.shinobi .cg-wrap piece.m-piece.white {
+	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/white-monk.svg') !important;
 }
 .shinobi mpiece.j-piece {
 	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@master/static/images/pieces/mono/hawk.svg') !important;
@@ -42,7 +60,7 @@
 }
 
 .shogun .cg-wrap piece.f-piece.white {
-	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.5.2/static/images/pieces/shinobi/wM.svg') !important;
+	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/white-monk.svg') !important;
 }
 .shogun .cg-wrap piece.pn-piece.white {
 	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.5.2/static/images/pieces/orda/merida/wH.svg') !important;
@@ -124,7 +142,7 @@
 	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/black-yurt.svg') !important;
 }
 .makruk .cg-wrap piece.m-piece.white, .makruk .cg-wrap piece.m-piece.promoted.white, .sittuyin .cg-wrap piece.f-piece.white, .asean .cg-wrap piece.q-piece.white {
-	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.5.2/static/images/pieces/shinobi/wM.svg') !important;
+	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/white-monk.svg') !important;
 }
 .makruk .cg-wrap piece.m-piece.black, .makruk .cg-wrap piece.m-piece.promoted.black, .sittuyin .cg-wrap piece.f-piece.black, .asean .cg-wrap piece.q-piece.black {
 	background-image: url('https://cdn.jsdelivr.net/gh/kezsulap/pychess-pieceset@master/static/SIeeO/black-monk.svg') !important;
