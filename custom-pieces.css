@@ -23,7 +23,7 @@
 .shinobi .cg-wrap piece.p-piece.white {
 	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@1.5.2/static/images/pieces/merida/wP.svg') !important;
 }
-.shinobi .cg-wrap piece.pp-piece.white, piece.c-piece.white {
+.shinobi .cg-wrap piece.pp-piece.white, .shinobi .cg-wrap piece.c-piece.white {
 	background-image: url('https://cdn.jsdelivr.net/gh/gbtami/pychess-variants@master/static/images/pieces/shogun/merida/mono/wC.svg') !important;
 }
 .shinobi .cg-wrap piece.f-piece.white {
